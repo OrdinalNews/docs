@@ -1,6 +1,5 @@
 # Table of contents
 
-* [Ordinal News](README.md)
-* [About](about.md)
+* [About](README.md)
 * [Operations](operations.md)
 * [FAQ](faq.md)

@@ -1,7 +1,7 @@
 ---
-description: Establishing the most read and trusted news feed for real Bitcoiners.
+description: Setting the standard for inscribing news on Bitcoin.
 ---
 
-# Ordinal News
+# About
 
-Setting the standard for inscribing news on Bitcoin.
+Coming soon!
