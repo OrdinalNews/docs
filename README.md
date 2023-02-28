@@ -4,6 +4,4 @@ description: Establishing the most read and trusted news feed for real Bitcoiner
 
 # Ordinal News
 
-One commandment: you must be sovereign.
-
-One task: you must inscribe the news.
+Setting the standard for inscribing news on Bitcoin.
