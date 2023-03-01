@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Operations](README.md)
+* [About](README.md)
+* [Operations](operations.md)
