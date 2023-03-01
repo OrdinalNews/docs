@@ -1,6 +1,6 @@
 # About
 
-Ordinal News Standard is a standard for writing media to Bitcoin. The goal is to create a unified way for Bitcoiners to inscribe news and tell their own story, independent from centralized institutions.\
+Ordinal News Standard is a standard for writing news and topics of discussion to Bitcoin. The goal is to create a unified way for Bitcoiners to inscribe news and tell their own story, independent from centralized institutions.\
 \
 See the [Operations](operations.md) section for more information on how to use the standard.\
 \
