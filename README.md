@@ -44,3 +44,5 @@ Below is a post example with extra syntax:
   "author": "whoabuddy.sats"
 }
 ```
+
+Additional optional fields can be discussed on GitHub by [opening an issue](https://github.com/OrdinalNews/client/issues/new).
