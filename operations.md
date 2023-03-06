@@ -40,8 +40,8 @@ Below is a post example with extra syntax:
   "op": "post",
   "title": "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.",
   "url": "https://mempool.space/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f",
-  "body": "Fourteen years ago, the Bitcoin network stored it's very first block, inscribed with the insightful text that the current financial systems were unsustainable. The answer lies in a peer to peer digital currency and payment network created, maintained, and used by a sovereign collective. Now is the time to get involved!",
-  "author": "whoabuddy.sats"
+  "author": "whoabuddy.sats",
+  "body": "Fourteen years ago, the Bitcoin network stored it's very first block, inscribed with the insightful text that the current financial systems were unsustainable. The answer lies in a peer to peer digital currency and payment network created, maintained, and used by a sovereign collective. Now is the time to get involved!"
 }
 ```
 
