@@ -45,4 +45,4 @@ Below is a post example with extra syntax:
 }
 ```
 
-Additional optional fields can be discussed on GitHub by [opening an issue](https://github.com/OrdinalNews/client/issues/new).
+Additional optional fields can be discussed on GitHub by [opening an issue](https://github.com/OrdinalNews/docs/issues/new).
