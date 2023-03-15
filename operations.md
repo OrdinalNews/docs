@@ -26,11 +26,13 @@ Note: Following the syntax above is required to help indexers process the inform
 
 Anyone is welcome to include more information in the ordinal inscription. More optional parameters will likely be added and adopted as the standard evolves, but more exploration and testing needs to be done before it becomes a recommended practice.
 
-| Key    | Required? | Description                                            |
-| ------ | --------- | ------------------------------------------------------ |
-| url    | No        | URL: supporting link for the content                   |
-| body   | No        | Body: supporting text as either plain text or markdown |
-| author | No        | Author: common identifier for who is posting content   |
+| Key           | Required? | Description                                            |
+| ------------- | --------- | ------------------------------------------------------ |
+| url           | No        | URL: supporting link for the content                   |
+| body          | No        | Body: supporting text as either plain text or markdown |
+| author        | No        | Author: common identifier for who is posting content   |
+| authorAddress | No        | Author Address: the address of the poster              |
+| signature     | No        | Signature: proof that the author address is the poster |
 
 Below is a post example with extra syntax:
 
@@ -45,4 +47,4 @@ Below is a post example with extra syntax:
 }
 ```
 
-Additional optional fields can be discussed on GitHub by [opening an issue](https://github.com/OrdinalNews/docs/issues/new).
+Additional optional fields can be discussed on GitHub by [opening an issue](https://github.com/OrdinalNews/docs/issues).
