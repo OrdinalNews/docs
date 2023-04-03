@@ -2,4 +2,4 @@
 
 * [About](README.md)
 * [Operations](operations.md)
-* [isncribe.news](https://inscribe.news)
+* [inscribe.news](https://inscribe.news)
