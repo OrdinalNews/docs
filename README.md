@@ -1,14 +1,29 @@
 # About
 
-The Ordinal News Standard is a standard for permanently inscribing news and topics of discussion to Bitcoin.
+The Ordinal News Standard is a convention for permanently inscribing news and topics of discussion to Bitcoin.
 
-The goal is to create a unified way for Bitcoiners to inscribe news and tell their own story, independent from centralized institutions.\
-\
-See the [Operations](operations.md) section for more information on the protocol and how to use the standard.\
-\
-Visit [inscribe.news](https://inscribe.news) to write using the standard, or to view news inscriptions by ID, e.g.
+The benefit of doing this is to create an immutable record of who said what and when, with no stealth edits.
 
-[https://inscribe.news/view-news?id=dc1dcfefc0c300ab2841c69dee460a690552be7235c4575667ab8db189af032ai0](https://inscribe.news/view-news?id=dc1dcfefc0c300ab2841c69dee460a690552be7235c4575667ab8db189af032ai0)\
-\
-If you’re interested in contributing to the development of this standard please see the current issues or create a new one:\
-[https://github.com/OrdinalNews/docs/issues](https://github.com/OrdinalNews/docs/issues)
+While nobody can revise what is written, they can add comments or updates using new inscriptions.
+
+**Our community's mission is to move the news to the ledger of record.**
+
+To inscribe the news, visit [https://inscribe.news/post-news](https://inscribe.news/post-news).
+
+To view a news inscription, use either the inscription ID or number with the link format below:
+
+* example: "The Tripolar Moment" by Balaji S. Srinivasan
+* [https://inscribe.news/view-news?id=326565](https://inscribe.news/view-news?id=326565)
+* [https://inscribe.news/view-news?id=0509e7a6c7a4451f5d281609b037ae80d3c3db42f4ab7fe3b8405e261be2015ai0](https://inscribe.news/view-news?id=0509e7a6c7a4451f5d281609b037ae80d3c3db42f4ab7fe3b8405e261be2015ai0)
+
+### Contributing to the Standard
+
+To view, use, or contribute to the standard, visit the [Operations section](operations.md) to view more information.
+
+The Ordinal News Standard is being developed [openly on GitHub](https://github.com/ordinalnews) and contributions are welcome!
+
+### Community Implementations
+
+* Ordinal News Twitter Bot: [https://twitter.com/1btc\_ordinals](https://twitter.com/1btc\_ordinals)
+* 1btc.news Raw Feed: [https://1btc.news](https://1btc.news)
+* 1btc.news Viewer: [https://1btc.news/view-news?id=326565](https://1btc.news/view-news?id=326565)
