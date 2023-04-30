@@ -20,3 +20,14 @@ The API code exists in the [/functions directory of the project](https://github.
 {% hint style="info" %}
 This API is free to use for any website, if you find it useful or run into any errors, please [file an issue on GitHub](https://github.com/ordinalnews/client/issues)!
 {% endhint %}
+
+### Fetching all Data
+
+The `/api/data/ord-news` and `/api/data/ord-list` endpoints return a list of keys found in the KV namespace, and supports the following query parameters:
+
+| Parameter | Description                                                                              |
+| --------- | ---------------------------------------------------------------------------------------- |
+| cursor    | If `list_complete` is false, this value can be used to call again to get the next batch. |
+| prefix    | Return a list of keys starting with a particular prefix.                                 |
+| limit     | Modify the number of results returned, default/max 1,000.                                |
+
